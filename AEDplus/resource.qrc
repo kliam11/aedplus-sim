@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gifs">
+        <file>rsc/gif/Asystole_RHYTHM.gif</file>
+        <file>rsc/gif/PEA_RHYTHM.gif</file>
+        <file>rsc/gif/VF_heartRhythm.gif</file>
+        <file>rsc/gif/VT_heartRhythm.gif</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>rsc/img/dummy.png</file>
+    </qresource>
+</RCC>
