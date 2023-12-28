@@ -1,4 +1,4 @@
-# AED Simulation
+# AED Simulation Project - COMP 3004
 
 |     Members       |
 | ----------------- |
